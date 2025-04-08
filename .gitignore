@@ -1,3 +1,8 @@
-data/
 .env
+
+data/
+checkpoints/
+wandb/
+
 test.py
+clip-data.pt
